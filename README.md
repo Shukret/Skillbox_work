@@ -1,7 +1,7 @@
 # Skillbox Works
 
 
-_These works were developed during the course "game developer on Unity" at Skillbox University
+These works were developed during the course "game developer on Unity" at Skillbox University
 
 
 Libraries and programs used: **Unity, Blender, Particle System
