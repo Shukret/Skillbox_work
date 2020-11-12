@@ -16,7 +16,7 @@ Libraries and programs used: **Unity, Blender, Particle System
     * Fireworks 2
     * Green particle ball
     
-    [![Video generic animation](https://i9.ytimg.com/vi/c_jSu9XZMjA/mq2.jpg?sqp=CPj0tf0F&rs=AOn4CLCXj5SnD0Y1YlVoPaM71mqlilOuwA)](https://www.youtube.com/watch?v=c_jSu9XZMjA)
+   [![Video generic animation](https://i9.ytimg.com/vi/c_jSu9XZMjA/mq2.jpg?sqp=CPj0tf0F&rs=AOn4CLCXj5SnD0Y1YlVoPaM71mqlilOuwA)](https://www.youtube.com/watch?v=c_jSu9XZMjA)
    
    * Particle system (Part 2)
     * Snow
