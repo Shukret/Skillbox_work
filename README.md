@@ -21,9 +21,9 @@ Libraries and programs used: **Unity, Blender, Particle System
 [![Video generic animation](https://i9.ytimg.com/vi/c_jSu9XZMjA/mq2.jpg?sqp=CPj0tf0F&rs=AOn4CLCXj5SnD0Y1YlVoPaM71mqlilOuwA)](https://www.youtube.com/watch?v=c_jSu9XZMjA)
    
    * Particle system (Part 2)
-    * Snow
-    * Hit stars
-    * Coins explosion
+     * Snow
+     * Hit stars
+     * Coins explosion
     
 [![Video generic animation](https://i9.ytimg.com/vi/QJOJlWxKiSc/mq3.jpg?sqp=CPj0tf0F&rs=AOn4CLAPcDdJO1xxgrQBqAS39P5XijxZ8A)](https://www.youtube.com/watch?v=QJOJlWxKiSc)
     
