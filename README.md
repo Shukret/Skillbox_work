@@ -23,7 +23,7 @@ Libraries and programs used: **Unity, Blender, Particle System
     * Hit stars
     * Coins explosion
     
-    [![Video generic animation](https://i9.ytimg.com/vi/QJOJlWxKiSc/mq3.jpg?sqp=CPj0tf0F&rs=AOn4CLAPcDdJO1xxgrQBqAS39P5XijxZ8A)](https://www.youtube.com/watch?v=QJOJlWxKiSc)
+   [![Video generic animation](https://i9.ytimg.com/vi/QJOJlWxKiSc/mq3.jpg?sqp=CPj0tf0F&rs=AOn4CLAPcDdJO1xxgrQBqAS39P5XijxZ8A)](https://www.youtube.com/watch?v=QJOJlWxKiSc)
     
    * Blender character + rig animation + Mixamo animation
    
